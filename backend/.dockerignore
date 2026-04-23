@@ -1,7 +1,9 @@
 .env
 .git
-node_modules/
-build/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
 Dockerfile
 docker-compose.yml
 README.md
